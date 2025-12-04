@@ -2,7 +2,7 @@
 
 VoiceReaderAI is a mobile reading assistant that keeps distracted readers engaged by instantly capturing any on-screen text, narrating it with CLOVA Voice, and saving AI-powered summaries plus clean notes. This repository contains the official landing page we use for the NAVER Vietnam AI Hackathon 2025 submission.
 
-![Preview](/preview.png)
+![Preview](/public/preview.png)
 
 ## Table of Contents
 

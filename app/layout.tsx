@@ -9,8 +9,34 @@ const geist = Geist({
 });
 
 export const metadata: Metadata = {
-  title: "SaaS Landing Template",
-  description: "Landing Page template.",
+  title: "VoiceReaderAI · NAVER Vietnam AI Hackathon",
+  description:
+    "VoiceReaderAI keeps ADHD and dyslexic readers focused by narrating any screen with CLOVA Voice and Gemini summaries.",
+  icons: {
+    icon: "/logo_2.png",
+    shortcut: "/logo_2.png",
+    apple: "/logo_2.png",
+  },
+  openGraph: {
+    title: "VoiceReaderAI",
+    description:
+      "Instant audio + AI summaries for every screen. Built for NAVER Vietnam AI Hackathon 2025.",
+    images: [
+      {
+        url: "/preview.png",
+        width: 1316,
+        height: 768,
+        alt: "VoiceReaderAI Landing Preview",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "VoiceReaderAI",
+    description:
+      "Instant audio + AI summaries for every screen. Built for NAVER Vietnam AI Hackathon 2025.",
+    images: ["/preview.png"],
+  },
 };
 
 export default function RootLayout({
