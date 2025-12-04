@@ -13,9 +13,9 @@ export const metadata: Metadata = {
   description:
     "VoiceReaderAI keeps ADHD and dyslexic readers focused by narrating any screen with CLOVA Voice and Gemini summaries.",
   icons: {
-    icon: "/logo_2.png",
-    shortcut: "/logo_2.png",
-    apple: "/logo_2.png",
+    icon: "/public/logo_2.png",
+    shortcut: "/public/logo_2.png",
+    apple: "/public/logo_2.png",
   },
   openGraph: {
     title: "VoiceReaderAI",
