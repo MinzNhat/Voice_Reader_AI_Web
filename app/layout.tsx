@@ -23,7 +23,7 @@ export const metadata: Metadata = {
       "Instant audio + AI summaries for every screen. Built for NAVER Vietnam AI Hackathon 2025.",
     images: [
       {
-        url: "/preview.png",
+        url: "/public/preview.png",
         width: 1316,
         height: 768,
         alt: "VoiceReaderAI Landing Preview",
@@ -35,7 +35,7 @@ export const metadata: Metadata = {
     title: "VoiceReaderAI",
     description:
       "Instant audio + AI summaries for every screen. Built for NAVER Vietnam AI Hackathon 2025.",
-    images: ["/preview.png"],
+    images: ["/public/preview.png"],
   },
 };
 
